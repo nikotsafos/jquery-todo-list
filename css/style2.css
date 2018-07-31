@@ -1,5 +1,7 @@
 body {
   text-align: center;
+  width: 33%;
+  margin: auto;
 }
 
 li {
